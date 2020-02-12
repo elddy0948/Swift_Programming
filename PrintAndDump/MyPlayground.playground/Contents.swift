@@ -25,3 +25,9 @@ print(holuckBody) //__lldb_expr_9.myBody
 dump(holuckBody)  //__lldb_expr_9.myBody #0
                   // - height: 177.1
                   //- weight: 70.3
+
+//문자열 보간법.
+
+let myAge: Int = 25
+
+print("제 나이는 \(myAge)입니다.") //제 나이는 25입니다.
